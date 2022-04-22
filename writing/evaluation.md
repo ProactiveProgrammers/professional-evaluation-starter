@@ -1,5 +1,13 @@
 # Professional Evaluation
 
+TODO: Please refer to the online version of these learning objectives
+that is available at the following web site:
+https://proactiveprogrammers.com/discrete-structures/learning-objectives-discrete-structures/.
+If you notice any inconsistencies between the learning objectives listed
+in this file, please alert the course instructor. Ultimately, the
+learning objectives that are listed on the web site are the official
+ones for this course.
+
 ## Add Your Name Here
 
 Please see the instructions in the README.md file for more details!
