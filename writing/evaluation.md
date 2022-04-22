@@ -30,6 +30,8 @@ then integrate it ..." in the context of containing prompt. You should go to the
 end of the learning objective, press enter, and then rank your self by adding a
 number from 1 to 5 and then furnish a justification for this ranking.
 
+# Discrete Structures
+
 - Given the opportunity to input, store, and output a type of data, pick the
   correct discrete structure (e.g., a number, set, sequence, stream, dictionary,
   or tree) and then:
