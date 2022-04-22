@@ -14,15 +14,17 @@ After cloning this repository to your computer, please take the following steps:
   your response that makes it clear why you have attained mastery of the
   learning objective at the specified level.
 - Make sure that you accurately rank your level of competence since you will not
-  receive a higher grade for this project if you artificially inflate or deflate
-  your skills in the various learning outcomes for this course
+  receive a different grade for this project if you artificially inflate or
+  deflate your skills in the various learning outcomes for this course
 - Do not forget to provide a ranking for each of the detailed learning outcomes
   for the course! For every one of the lowest-level bullet points you should
-  either provide a ranking for yourself between 1 and 5 or the score of "N/A"
-  if you think that we have not yet covered that content in the course.
+    either provide a ranking for yourself between 1 and 5 or the score of "N/A"
+    if you think that we have not yet covered that content in the course.
 - If you are not sure whether we have covered a specific topic in the course,
   please refer to the course schedule that is available at:
   https://proactiveprogrammers.com/discrete-structures/schedule-discrete-structures/
+- Please note that, due to the constraints of an academic semester, you will not
+  have covered all of the material on the 
 - Please only mark a specific learning object as "N/A" if you genuinely believe
   that we have not yet covered that topic in the course. If you are in doubt
   about the coverage of a specific topic, please clarify your questions with the
