@@ -293,7 +293,7 @@ to take to improve your overall mastery of the technical knowledge and skills
 developed as a part of the Discrete Structures course. Your professional
 improvement plan should explain SMART (i.e., Specific, Measurable, Achievable,
 Relevant, and Time-Bounded) steps that you can take to improve your technical
-knowledge and skills during the remainder of the Fall 2022 semester. Please
+knowledge and skills during the remainder of the Spring 2022 semester. Please
 make sure that you clearly explain why your goals are SMART!
 
 ## Suggestions for Improving the Learning Objectives
